@@ -18,7 +18,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "bugbiter"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -62,10 +62,9 @@ gravatar = false
 
 # Contact Widget setup
   email = "larabeef@si.edu"
-  address = """Department of Entomology, National Museum of Natural History, Washington, DC<br>
-            Department of Biological Sciences, The George Washington University, Washington, DC"""
+  address = "Department of Entomology, National Museum of Natural History, Washington, DC"
+  address = "Department of Biological Sciences, The George Washington University, Washington, DC"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  phone = "888 888 88 88"
   skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
