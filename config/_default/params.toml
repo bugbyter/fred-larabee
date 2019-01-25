@@ -62,8 +62,8 @@ gravatar = false
 
 # Contact Widget setup
   email = "larabeef@si.edu"
-  address = "Department of Entomology, National Museum of Natural History, Washington, DC"
-  address = "Department of Biological Sciences, The George Washington University, Washington, DC"
+  address = """Department of Entomology, National Museum of Natural History, Washington, DC<br>
+   Department of Biological Sciences, The George Washington University, Washington, DC"""
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
   telegram = ""
   keybase = ""  # Your keybase.io username.
