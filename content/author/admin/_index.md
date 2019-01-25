@@ -10,7 +10,7 @@ role = "Post-doctoral Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Department of Entomology, National Museum of Natural History", url = "https://naturalhistory.si.edu/research/entomology/collections-overview/hymenoptera/antlab" } ]
+organizations = [ { name = "National Museum of Natural History", url = "https://naturalhistory.si.edu/research/entomology/collections-overview/hymenoptera/antlab" }, { name = "The George Washington University", url = "http://www.powell-lab.net/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
