@@ -65,7 +65,6 @@ gravatar = false
   address = "Department of Entomology, National Museum of Natural History, Washington, DC"
   address = "Department of Biological Sciences, The George Washington University, Washington, DC"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
