@@ -1,22 +1,22 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Fredrick J. Larabee"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Post-doctoral Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Department of Entomology, National Museum of Natural History", url = "https://naturalhistory.si.edu/research/entomology/collections-overview/hymenoptera/antlab" } ], [ { name = "Department of Biological Sciences, The George Washington University", url = "http://www.powell-lab.net/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "larabeef@si.edu"
 
 # List (academic) interests or hobbies
 interests = [
